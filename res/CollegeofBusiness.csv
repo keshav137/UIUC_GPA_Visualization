@@ -1,0 +1,156 @@
+subject,number,avg_gpa,sum_students,title
+BADM,320,3.8480972434915772,2612,Principles of Marketing
+FIN,221,3.056027097902098,2288,Corporate Finance
+BADM,310,3.42456719273075,2091,Mgmt and Organizational Beh
+ACCY,201,2.987902180318208,1697,Accounting and Accountancy I
+BADM,449,3.58943757725587,1618,Business Policy and Strategy
+BADM,300,3.498697819314641,1605,The Legal Environment of Bus
+BADM,590,3.7408598510494233,1477,Frontiers in Technology Smr
+ACCY,202,3.235602836879437,1410,Accounting and Accountancy II
+FIN,300,2.5315237134207873,991,Financial Markets
+ACCY,200,3.244387229660145,971,Fundamentals of Accounting
+ACCY,303,3.291681922196796,874,Atg Institutions and Reg
+ACCY,301,3.312022988505747,870,Atg Measurement & Disclosure
+ACCY,302,3.313118279569891,837,Decision Making for Atg
+ACCY,304,3.328640192539109,831,Accounting Control Systems
+ACCY,312,3.333108808290157,772,Principles of Taxation
+BADM,350,3.602047353760445,718,IT for Networked Organizations
+ACCY,410,3.3241091954023,696,Advanced Financial Reporting
+FIN,321,3.329489795918366,686,Advanced Corporate Finance
+BADM,567,3.533887240356083,674,Process Management
+FIN,511,3.57817365269461,668,Investments
+FIN,580,3.628360902255639,665,Corporate Finance
+ACCY,517,3.5425704809286893,603,Financial Statement Analysis
+BADM,375,3.162653399668325,603,Business Process Management
+ACCY,500,3.517565674255692,571,"Atg Measuremnt, Rpting & Cntrl"
+BADM,508,3.581571164510165,541,Leadership and Teams
+ACCY,405,3.321501976284585,506,Assurance and Attestation
+ACCY,510,3.580123711340206,485,Financial Reporting Standards
+BADM,380,3.765940803382663,473,International Business
+FIN,500,3.662033898305086,472,Introduction to Finance
+FIN,423,3.750859728506787,442,Financing Emerging Businesses
+BADM,520,3.8283132530120483,415,Marketing Management
+ACCY,512,3.590995145631067,412,Internal Risk Measurement/Rept
+FIN,512,3.526119791666667,384,Financial Derivatives
+ACCY,511,3.526062992125984,381,External Risk Measurement/Rept
+ACCY,503,3.621134564643799,379,Managerial Accounting
+ACCY,504,3.451048158640227,353,Auditing
+BADM,322,3.5285959885386813,349,Marketing Research
+FIN,501,3.55076219512195,328,Financial Economics
+BADM,374,3.4477981651376153,327,Management Decision Models
+BADM,325,3.821993769470406,321,Consumer Behavior
+ACCY,398,3.9414420062695923,319,Practical Problems in Atg
+BADM,525,3.630414012738853,314,New Product Development
+FIN,241,3.497165605095541,314,Fundamentals of Real Estate
+FIN,230,3.220358306188925,307,Introduction to Insurance
+ACCY,415,3.286013289036545,301,Auditing Stds and Practice
+ACCY,515,3.484983277591974,299,Auditing & Assurance Standards
+ACCY,505,3.556308724832215,298,Federal Taxation
+BADM,589,3.529317406143344,293,Project Management
+BADM,395,3.618961937716262,289,Data Science & Analytics
+BADM,572,3.564092664092663,259,Stat for Mgt Decision Making
+BADM,509,3.574156862745098,255,Managing Organizations
+BADM,311,3.548858267716534,254,Individual Behavior in Orgs
+BADM,566,3.210294117647059,238,Supply Chain Management
+FIN,521,3.5165531914893613,235,Advanced Corporate Finance
+BADM,352,3.571794871794871,234,Database Design and Management
+ACCY,451,3.2953711790393,229,Advanced Income Tax Problems
+BADM,514,3.688815789473685,228,Managing Innovation
+FIN,435,3.546017699115044,226,Personal Wealth Management
+ACCY,502,3.557545454545454,220,Accounting Analysis II
+BADM,574,3.572909090909091,220,Simulation and Risk Analysis
+BADM,543,3.487162790697674,215,Technology Strategy
+BADM,340,3.824928909952607,211,Ethical Dilemmas of Business
+FIN,445,3.713413461538462,208,Real Estate Investment
+BADM,312,3.52855,200,Org Design and Environment
+BADM,353,3.602967032967033,182,Info Sys Analysis and Design
+BADM,378,2.96942196531792,173,Logistics Management
+BADM,420,3.936305732484076,157,Advanced Marketing Management
+BADM,446,3.782789115646258,147,Entrepreneurship Sm Bus Form
+FIN,446,3.625586206896551,145,Real Estate Financial Markets
+FIN,520,3.757071428571429,140,Financial Management
+BADM,327,3.7922962962962963,135,Marketing to Business and Govt
+BADM,403,3.669393939393939,132,Principles of Business Law
+BADM,329,3.659692307692308,130,New Product Development
+BADM,382,3.7655813953488373,129,International Marketing
+BADM,583,3.67953488372093,129,Intl Mergers and Acquisitions
+BADM,582,3.8251968503937013,127,Multinational Management
+BADM,351,3.721626016260163,123,Social Media Strategy
+ACCY,552,3.453606557377049,122,Partnership Income Taxation
+BADM,377,3.168099173553718,121,Project Management
+BADM,544,3.712268907563025,119,Strategic Management
+BADM,335,3.534655172413793,116,Supply Chain Management Basics
+FIN,411,3.08103448275862,116,Investment & Portfolio Mngt
+BADM,381,3.745130434782609,115,Multinational Management
+FIN,447,3.956521739130435,115,Real Estate Development
+BADM,336,3.534070796460177,113,Modeling the Supply Chain
+BADM,366,3.94375,112,Product Design and Development
+BADM,367,3.706272727272727,110,Mgmt of Innov and Technology
+BADM,453,3.818018867924528,106,Decision Support Systems
+BADM,573,3.381634615384616,104,Quant Analysis of Decisions
+ACCY,557,3.644411764705883,102,Consolidated Tax Returns
+ACCY,593,3.412673267326732,101,Advanced Topics in Accounting
+BADM,337,3.807,100,Practicum in Supply Chain Mgt
+FIN,515,3.489999999999999,98,Fixed Income Portfolios
+FIN,522,3.6773469387755098,98,Cases in Financial Strategy
+BADM,321,3.718350515463918,97,Principles of Retailing
+BADM,593,3.587628865979381,97,Research in Special Fields
+BADM,552,3.9348453608247422,97,Legal Aspects of Mgt Decisions
+BADM,584,3.7657446808510633,94,Global Marketing
+FIN,463,3.745617977528089,89,Investment Banking
+FIN,412,3.29590909090909,88,Options and Futures Markets
+ACCY,556,3.663522727272727,88,Tax Research
+BADM,314,3.3960465116279073,86,Leading Negotiations
+BADM,445,3.767674418604651,86,Small Business Consulting
+BADM,586,3.926951219512195,82,Intl Comparative Management
+FIN,514,3.58240506329114,79,Financial Engineering II
+FIN,461,3.911772151898733,79,Financial Intermediation
+FIN,575,3.557368421052632,76,Business Tax Policy
+FIN,541,3.8490666666666673,75,Real Estate Fundamentals
+FIN,551,3.4224,75,International Finance
+BADM,554,3.399999999999999,75,Enterprise Database Management
+ACCY,551,3.346527777777778,72,Corporate Income Taxation
+FIN,424,3.237857142857143,70,Mergers and Acquisition
+BADM,313,3.3642424242424243,66,Human Resource Management
+BADM,379,3.127301587301587,63,Business Process Improvement
+FIN,578,3.614126984126984,63,Govt Market Economy
+BADM,261,3.951612903225806,62,Technology & Mgmt Seminar
+FIN,526,3.695762711864406,59,Enterprise Risk Management
+FIN,516,3.614915254237288,59,Term Structure Models
+FIN,444,3.916785714285714,56,Urban Real Estate Valuation
+BADM,595,3.685178571428571,56,Business Fundamentals
+BADM,551,3.756785714285714,56,Managing Intellectual Property
+BADM,324,3.552115384615384,52,Purchasing and Supply Mgmnt
+BADM,460,3.3925490196078423,51,Business Process Modeling
+ACCY,561,3.549607843137255,51,Taxes and Business Strategy
+ACCY,555,3.607647058823529,51,Inc Tx Acctg & Multistate Tx
+BADM,521,3.824489795918367,49,Marketing Strategy
+FIN,571,3.578367346938775,49,Retirement Policy
+BADM,557,3.972291666666667,48,Dec Support and Knowledge Mgt
+ACCY,558,3.855434782608695,46,Taxation of Closely-Held Bus.
+ACCY,554,3.478478260869565,46,International Taxation
+BADM,524,3.849318181818182,44,Pricing Strategy and Tactics
+FIN,443,3.394772727272728,44,Legal Issues in Real Estate
+ACCY,518,3.975,40,Financial Statement Fraud
+ACCY,570,3.65875,40,Data Anlaytics Foundations
+ACCY,571,3.66675,40,Stat Analyses for Accountancy
+BADM,555,3.838285714285713,35,Info Sys Development and Mgt
+FIN,422,3.716470588235294,34,Cases in Corporate Finance
+BADM,365,3.8965625,32,New Product Marketing
+FIN,566,3.400666666666666,30,"Market Microstructure, Trading"
+FIN,490,3.815862068965517,29,Investment Management Academy
+FIN,573,3.4517857142857142,28,Competition Policy
+FIN,513,3.3928571428571432,28,Financial Engineering I
+FIN,392,3.845357142857143,28,Investment Management Academy
+FIN,431,3.505925925925925,27,Property-Liability Insurance
+FIN,530,3.6170370370370373,27,Foundations in Risk Management
+FIN,545,3.654615384615384,26,Real Estate Investment
+FIN,536,3.538846153846153,26,Government Insurance Programs
+BADM,326,3.333478260869565,23,Pricing Policies
+FIN,418,3.894545454545454,22,Financial Modeling
+FIN,518,3.8640909090909092,22,Financial Modeling
+FIN,563,3.909090909090909,22,Investment Banking
+FIN,572,3.349545454545455,22,Health Care Policy
+BADM,199,3.9245454545454552,22,Bus as a Force in Am Society
+FIN,579,3.619523809523809,21,Applied Portfolio Management
+BADM,323,3.666666666666666,21,Marketing Communications

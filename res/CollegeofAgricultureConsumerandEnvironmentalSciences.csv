@@ -1,0 +1,235 @@
+subject,number,avg_gpa,sum_students,title
+FSHN,120,3.5683444691907953,2694,Contemporary Nutrition
+ANSC,250,3.594710860366714,2127,Companion Animals in Society
+NRES,102,3.159887278582931,1863,Introduction to NRES
+HDFS,105,3.792171189979123,1437,Intro to Human Development
+FSHN,101,3.368413639733136,1349,Intro Food Science & Nutrition
+ACE,161,3.587761674718196,1242,Microcomputer Applications
+ANSC,207,3.537131782945735,774,Companion Animal Biology &Care
+AGED,260,3.466950904392765,774,Intro to Leadership Studies
+HORT,105,3.574700460829494,651,Vegetable Gardening
+CPSC,131,3.527515432098764,648,Agriculture in Mythology
+ACE,251,3.263844884488448,606,The World Food Economy
+ACE,240,3.192799227799227,518,Personal Financial Planning
+HORT,107,3.656711409395973,447,Introduction to Floral Design
+NRES,101,3.33816091954023,435,Wildlife Conserv 21st Century
+CPSC,440,3.094391408114557,419,Applied Statistical Methods I
+ANSC,100,3.350774818401937,413,Intro to Animal Sciences
+CPSC,116,3.814921052631579,380,The Global Food Production Web
+HORT,430,3.544166666666667,372,Children and Nature
+ANSC,101,3.416378378378378,370,Contemporary Animal Issues
+ACE,231,3.456766304347826,368,Food and Agribusiness Mgt
+ACE,222,3.3565384615384612,364,Agricultural Marketing
+CPSC,213,2.91497159090909,352,Evolution in Action
+FSHN,471,3.460568181818182,352,Food & Industrial Microbiology
+HDFS,220,3.170804597701149,348,Families in Global Perspective
+CPSC,112,3.259854651162791,344,Introduction to Crop Sciences
+ACE,428,3.219878048780488,328,Commodity Futures and Options
+NRES,201,2.625846153846153,325,Introductory Soils
+ANSC,221,2.862320261437908,306,"Cells, Metabolism and Genetics"
+ANSC,223,2.8590789473684213,304,Animal Nutrition
+ACE,210,2.988046357615893,302,Environmental Economics
+TSM,311,3.631966101694915,295,Humanity in the Food Web
+ANSC,222,2.436067796610169,295,Anatomy and Physiology
+ACE,100,2.545646258503401,294,Agr Cons and Resource Econ
+ANSC,224,2.793205574912892,287,Animal Reproduction and Growth
+ANSC,498,3.901254355400696,287,Integrating Animal Sciences
+ANSC,298,3.892218181818182,275,Undergraduate Seminar
+ACE,435,3.382878228782287,271,Global Agribusiness Management
+AGED,380,3.724924812030075,266,Leadership in Groups and Teams
+NRES,287,3.358905660377358,265,Environment and Society
+HDFS,120,3.529389312977099,262,Intro to Family Studies
+ACE,345,3.560163934426229,244,Finan Decision Indiv Sm Bus
+ACE,261,2.496065573770492,244,Applied Statistical Methods
+ACE,444,3.33225,240,Finan Serv & Invest Plan
+ACE,427,3.116294642857142,224,Commodity Price Analysis
+AGED,480,3.760046511627907,215,Collaborative Leadership
+ACE,360,3.366831683168316,202,Spreadsheet Models & Applic
+TSM,100,2.300447761194029,201,Technical Systems in Agr
+FSHN,232,3.307806122448978,196,Science of Food Preparation
+HORT,100,3.135179487179488,195,Introduction to Horticulture
+NRES,454,3.34765625,192,GIS in Natural Resource Mgmt
+NRES,348,3.461276595744681,188,Fish and Wildlife Ecology
+ACE,232,3.106740331491713,181,Management of Farm Enterprises
+HORT,180,3.635444444444445,180,Medicinal Plants and Herbology
+ACE,310,3.511420454545455,176,Natural Resource Economics
+FSHN,220,3.522254335260115,173,Principles of Nutrition
+NRES,219,3.04391304347826,161,Principles of Ecosystem Mgmt
+ANSC,103,3.991464968152866,157,Working With Farm Animals
+HDFS,101,3.6689610389610383,154,Issues & Careers in HDFS
+FSHN,427,3.313576158940398,151,Biochemical Nutrition II
+FSHN,414,3.719536423841059,151,Food Chemistry
+CPSC,418,3.6990066225165563,151,Crop Growth and Management
+ANSC,406,3.40758389261745,149,Zoo Animal Conservation Sci
+FSHN,420,3.648299319727891,147,Nutritional Aspects of Disease
+ANSC,205,3.744413793103448,145,World Animal Resources
+HORT,106,3.388896551724137,145,The Sustainable Home Garden
+FSHN,461,3.492957746478873,142,Food Processing I
+FSHN,426,3.742836879432624,141,Biochemical Nutrition I
+ANSC,305,3.7465942028985513,138,Human Animal Interactions
+CPSC,113,3.5678260869565213,138,"Environment, Agric, & Society"
+CPSC,226,2.9675555555555553,135,Introduction to Weed Science
+ACE,455,3.520074626865671,134,Intl Trade in Food and Agr
+ACE,341,3.77984962406015,133,Issues in Agribus Mkts & Mgmt
+ANSC,307,2.742265625,128,Companion Animal Management
+HDFS,290,3.368188976377953,127,Intro to Research Methods
+ACE,270,2.776693548387097,124,Consumer Economics
+ACE,346,3.5995121951219513,123,Tax Policy and Finan Planning
+ANSC,431,3.275901639344262,122,Advanced Reproductive Biology
+HDFS,301,3.078571428571428,119,Infancy & Early Childhood
+NRES,456,2.9699999999999998,119,Integrative Ecosystem Mgmt
+FSHN,595,3.871578947368421,114,Nutrition for Food Scientists
+TSM,234,3.005877192982456,114,"Wiring, Motors and Control Sys"
+NRES,421,3.3278947368421052,114,Quantitative Methods in NRES
+ACE,449,3.248684210526315,114,Retirement & Benefit Planning
+NRES,100,3.4410714285714272,112,Fundamentals of Env Sci
+ANSC,206,3.702792792792793,111,Horse Management
+HDFS,405,3.551909090909091,110,Adolescent Development
+TSM,233,2.797272727272727,110,Metallurgy & Welding Process
+HDFS,340,3.35788990825688,109,"Gender, Relationshps & Society"
+ANSC,350,3.376481481481482,108,Cellular Metabolism in Animals
+ANSC,422,3.066037735849056,106,Companion Animal Nutrition
+FSHN,349,3.459708737864077,103,Food Service Sanitation
+HDFS,225,3.300980392156862,102,Close Relationships
+ACE,411,3.478910891089109,101,Environment and Development
+HDFS,305,3.7169,100,Middle Childhood
+FSHN,302,3.85,100,Sensory Evaluation of Foods
+ANSC,452,3.65,100,Animal Growth and Development
+ANSC,402,3.868686868686868,99,Sheep Production
+ACE,430,2.91173469387755,98,Food Marketing
+ANSC,401,3.7379591836734702,98,Beef Production
+FSHN,460,3.298854166666666,96,Food Processing Engineering
+ACE,476,2.793829787234042,94,Family Economics
+ANSC,438,3.872553191489361,94,Lactation Biology
+ANSC,420,2.824044943820224,89,Ruminant Nutrition
+HDFS,401,3.579545454545454,88,Socialization and Development
+ACE,431,3.299080459770115,87,Agri-food Strategic Management
+CPSC,412,3.536321839080459,87,Principles of Crop Advising
+TSM,371,3.154186046511627,86,Residential Housing Design
+ACE,406,3.027790697674417,86,Environmental Law
+TSM,421,3.106588235294118,85,Ag Safety-Injury Prevention
+ACE,446,2.623571428571428,84,Modeling App's Finan Plan
+ANSC,306,3.690357142857142,84,Equine Science
+FSHN,260,3.7348809523809523,84,Raw Materials for Processing
+FSHN,418,3.269523809523809,84,Food Analysis
+ACE,254,2.868690476190476,84,Economic Systems in Africa
+AGED,230,3.694939759036145,83,Leadership Communications
+FSHN,345,3.7071084337349403,83,Hospitality Purchasing
+ANSC,467,3.593536585365854,82,Applied Animal Ecology
+ANSC,363,3.6254878048780492,82,Behavior of Domestic Animals
+TSM,438,3.160493827160493,81,Renewable Energy Applications
+TSM,422,3.468518518518518,81,Ag Health-Illnesses Prevention
+FSHN,466,3.8102469135802473,81,Food Product Development
+ACE,398,3.609382716049383,81,Food Marketing and Behavior
+FSHN,416,3.51873417721519,79,Food Chemistry Laboratory
+FSHN,322,3.858974358974359,78,Nutrition and the Life Cycle
+CPSC,241,2.658461538461538,78,Intro to Applied Statistics
+AGCM,220,3.521923076923076,78,Communicating Agriculture
+ANSC,407,3.151232876712329,73,Animal Shelter Management
+TSM,464,3.190138888888888,72,Engine and Tractor Power
+ACE,440,3.176388888888889,72,Finan Plan for Professionals
+NRES,474,3.220704225352112,71,Soil and Water Conservation
+FSHN,480,3.3,70,Basic Toxicology
+TSM,372,3.161285714285714,70,Environ Control & HVAC Systems
+ACE,306,3.205285714285714,70,Food Law
+HDFS,425,3.531884057971014,69,Critical Family Transitions
+CPSC,352,3.343235294117647,68,Plant Genetics
+CPSC,336,3.4798529411764703,68,Tomorrow's Environment
+CPSC,270,3.044264705882352,68,Applied Entomology
+AGED,300,3.845820895522388,67,Training and Development
+FSHN,150,3.746268656716418,67,Introduction to Dietetics
+HDFS,426,3.161818181818182,66,Family Conflict Management
+FSHN,469,3.813030303030302,66,Package Engineering
+ACE,199,3.838333333333333,66,Dev of Food and Ag Policy
+AGED,360,3.66171875,64,Advanced Leadership Studies
+ACE,448,3.275555555555555,63,Rural Real Estate Appraisal
+AGED,340,3.503015873015873,63,Leadership Ethics & Pluralism
+AGED,280,3.688387096774193,62,Training Needs Assessment
+ACE,456,3.532096774193548,62,Agr and Food Policies
+ACE,474,2.742096774193549,62,Econ of Consumption
+ACE,432,3.847377049180327,61,Farm Management
+CPSC,261,3.234918032786885,61,Biotechnology in Agriculture
+NRES,488,3.050166666666667,60,Soil Fertility and Fertilizers
+CPSC,498,3.9335,60,Crop Sci Professional Develpmt
+CPSC,426,3.440677966101695,59,Weed Mgt in Agronomic Crops
+CPSC,452,3.614827586206896,58,Advanced Plant Genetics
+HDFS,408,3.719298245614035,57,Hospitalized Children
+ANSC,398,3.9344642857142853,56,Undergraduate Research
+TSM,232,2.8874999999999993,56,Materials and Construction Sys
+FSHN,428,3.412545454545454,55,Community Nutrition
+AGED,499,3.709272727272727,55,Begin Agri Teachers Seminar
+NRES,407,3.018333333333334,54,Wildlife Population Ecology
+CPSC,215,3.29,53,The Prairie and Bioenergy
+ANSC,450,3.254901960784313,51,Comparative Immunobiology
+FSHN,332,3.555686274509804,51,Science of Food Systems
+NRES,419,3.131372549019608,51,Env and Plant Ecosystems
+CPSC,453,3.4402,50,Principles of Plant Breeding
+HDFS,208,3.946599999999999,50,Child Fam with Special Needs
+CPSC,543,3.856530612244898,49,Appl. Multivariate Statistics
+CPSC,431,3.201666666666667,48,Plants and Global Change
+AGCM,430,3.549375,48,Comm in Env Social Movements
+ANSC,110,3.6185416666666663,48,Life With Animals and Biotech
+ANSC,445,3.944583333333334,48,Statistical Methods
+ANSC,499,3.298541666666666,48,Dangerous Dogs & Breed Discrim
+FSHN,442,3.7920833333333333,48,HM Skills and Applications
+CPSC,414,3.763333333333333,48,Forage Crops & Pasture Ecology
+ANSC,446,3.416458333333333,48,Population Genetics
+TSM,363,3.695652173913043,46,Fluid Power Systems
+FSHN,514,3.891086956521738,46,Advanced Food Chemistry
+TSM,262,3.369565217391305,46,Off-Road Equipment Management
+ACE,592,3.622222222222222,45,Law and Regulation
+ANSC,370,3.393111111111111,45,Companion Animal Policy
+CPSC,542,3.136818181818182,44,Applied Statistical Methods II
+ANSC,309,3.6279069767441863,43,Meat Production and Marketing
+ACE,562,3.736976744186046,43,Applied Regression Models I
+NRES,420,2.8129268292682923,41,Restoration Ecology
+FSHN,421,3.734,40,Pediatric Clinical Nutrition
+FSHN,519,3.98325,40,Flavor Chemistry and Analysis
+HORT,205,3.897435897435897,39,Local Food Networks
+FSHN,398,3.395789473684211,38,Foundations in Beverage Mgmt
+ANSC,201,3.828918918918918,37,Principles of Dairy Production
+ACE,454,2.927837837837837,37,Econ Dev of Tropical Africa
+ACE,447,3.721621621621621,37,Case Stud Agr Accy & Fin Plan
+CPSC,419,3.823823529411764,34,Midwest Agricultural Practices
+ACE,451,3.05030303030303,33,Agriculture in Intl Dev
+NRES,429,3.166874999999999,32,Aquatic Ecosystem Conservation
+ACE,564,3.721290322580645,31,Applied Regression Models II
+NRES,426,3.6664516129032263,31,Renewable Energy Policy
+FSHN,465,3.811333333333333,30,Principles of Food Technology
+CPSC,466,3.4666666666666672,30,Genomics for Plant Improvement
+FSHN,429,3.543999999999999,30,Nutrition Assessment & Therapy
+FSHN,462,3.666666666666666,30,Food Processing II
+FSHN,499,3.833333333333333,30,Ingredient Technology
+ACE,445,2.862413793103448,29,Intermediate Personal Fin Plan
+FSHN,464,3.8386206896551722,29,Beverage Science & Technology
+CPSC,437,3.596896551724138,29,Principles of Agroecology
+HDFS,420,3.751428571428571,28,Family Diversity in the U.S.
+NRES,401,2.6307142857142862,28,Watershed Hydrology
+ANSC,520,3.469999999999999,27,Protein and Energy Nutrition
+TSM,352,3.63,27,Land and Water Mgt Systems
+ACE,471,3.910769230769231,26,Consumer Economic Policy
+ANSC,404,3.8588461538461543,26,Poultry Science
+NRES,502,3.321153846153846,26,Research Methods in NRES
+ACE,403,3.27,26,Agricultural Law
+TSM,435,3.2932,25,Elec Computer Ctrl Sys
+AGCM,315,3.7864,25,Emerging Media
+AGCM,320,3.389166666666666,24,Public Information Campaigns
+ANSC,322,3.112083333333334,24,Livestock Feeds and Feeding
+TSM,381,3.403333333333333,24,Grain Drying & Storage Systems
+ACE,563,3.6817391304347833,23,Math Program App Econ I
+FSHN,125,3.7391304347826093,23,Intro to Human Nutrition
+HORT,301,2.637826086956522,23,Woody Landscape Plants I
+TSM,486,3.42,23,Grain Bioprocessing Coproducts
+FSHN,443,3.652173913043478,23,Management of Fine Dining
+AGCM,330,3.485909090909091,22,Environmental Communications
+CPSC,565,3.833636363636364,22,Perl & UNIX for Bioinformatics
+ANSC,444,3.879090909090909,22,Applied Animal Genetics
+FSHN,140,3.409090909090909,22,Introduction to Hospitality
+ANSC,403,3.6972727272727273,22,Pork Production
+TSM,425,3.4854545454545462,22,Managing Ag Safety Risk
+NRES,511,3.158571428571428,21,Principles of Applied Ecology
+NRES,472,3.492857142857143,21,Environmental Psychology
+AGED,430,3.6514285714285712,21,Youth Development Programs
+CPSC,265,3.825714285714286,21,Genetic Engineering Lab
+TSM,465,2.748095238095238,21,Chemical Applications Systems
+NRES,593,3.554761904761905,21,Statistical Methods in Ecology

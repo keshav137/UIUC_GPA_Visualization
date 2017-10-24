@@ -1,0 +1,455 @@
+subject,number,avg_gpa,sum_students,title
+CS,101,3.166906238599052,2741,Intro Computing: Engrg & Sci
+CS,498,3.167072157159049,2647,Digital Forensics
+CS,105,3.512427536231883,2484,Intro Computing: Non-Tech
+CS,225,3.169813689752937,2469,Data Structures
+CS,125,3.402703056768559,2290,Intro to Computer Science
+CS,173,3.092190569744599,2036,Discrete Structures
+ECE,110,3.326920529801325,1812,Introduction to Electronics
+ECE,120,2.9964713375796173,1570,Introduction to Computing
+TAM,212,2.888790035587189,1405,Introductory Dynamics
+ECE,210,2.7393247126436773,1392,Analog Signal Processing
+ECE,220,2.870828220858896,1304,Computer Systems & Programming
+ECE,313,2.761236947791163,1245,Probability with Engrg Applic
+ECE,385,3.1603706823925872,1187,Digital Systems Laboratory
+CS,233,2.882567796610169,1180,Computer Architecture
+TAM,251,2.9321230502599662,1154,Introductory Solid Mechanics
+ECE,205,2.80515761821366,1142,Elec & Electronic Circuits
+CS,357,2.9649051233396593,1054,Numerical Methods I
+ME,300,2.92615157480315,1016,Thermodynamics
+CS,241,2.788491902834008,988,System Programming
+TAM,211,2.69595588235294,952,Statics
+CS,210,3.551260606060605,825,Ethical & Professional Issues
+TAM,210,2.853011292346299,797,Introduction to Statics
+CS,411,3.271359593392631,787,Database Systems
+IE,300,3.020481144343304,769,Analysis of Data
+ECE,391,2.9599471598414793,757,Computer Systems Engineering
+ECE,340,2.6884820239680423,751,Semiconductor Electronics
+CS,440,3.140293724966622,749,Artificial Intelligence
+CS,425,3.265307582260372,699,Distributed Systems
+TAM,335,2.709,690,Introductory Fluid Mechanics
+CS,465,3.138674521354933,679,User Interface Design
+CS,242,3.36447251114413,673,Programming Studio
+ECE,342,3.110254491017963,668,Electronic Circuits
+CS,418,3.250030120481928,664,Interactive Computer Graphics
+ME,170,3.777368421052632,646,Computer-Aided Design
+ECE,310,2.874563862928349,642,Digital Signal Processing
+ECE,330,2.60867716535433,635,Power Ckts & Electromechanics
+ECE,329,2.8945527156549513,626,Fields and Waves I
+ME,199,3.922785829307568,621,Design Projects
+ECE,445,3.085089722675366,613,Senior Design Project Lab
+CS,196,3.784577702702701,592,Freshman Honors
+CEE,330,3.320152542372882,590,Environmental Engineering
+CS,100,3.7750766609880753,587,Freshman Orientation
+ME,330,3.468993174061433,586,Engineering Materials
+CS,421,3.397962328767123,584,Progrmg Languages & Compilers
+CS,461,2.92261617900172,581,Computer Security I
+ME,270,3.092054054054053,555,Design for Manufacturability
+CS,450,3.149,520,Numerical Analysis
+CEE,195,3.71816733067729,502,About Civil Engineering
+ME,360,3.346653061224489,490,Signal Processing
+ENG,198,3.76983436853002,483,Inspiring Interacting Informin
+NPRE,402,3.5094055201698513,471,Nuclear Power Engineering
+ME,470,3.803841201716738,466,Senior Design Project
+CEE,201,3.13935064935065,462,Systems Engrg & Economics
+CS,412,3.060393013100435,458,Introduction to Data Mining
+ME,310,2.90849223946785,451,Fundamentals of Fluid Dynamics
+ME,320,2.982259507829977,447,Heat Transfer
+ME,371,3.66859410430839,441,Mechanical Design II
+CEE,202,3.24265909090909,440,Engineering Risk & Uncertainty
+CS,446,3.346264501160092,431,Machine Learning
+CEE,320,3.347811764705882,425,Construction Engineering
+MSE,280,3.075576470588235,425,Engineering Materials
+CS,410,3.863087885985748,421,Text Information Systems
+ME,340,3.270457831325301,415,Dynamics of Mechanical Systems
+ENG,360,3.807677261613692,409,Lect in Engrg Entrepreneurship
+ME,370,3.447673267326732,404,Mechanical Design I
+CS,374,2.503652392947103,397,Intro to Algs & Models of Comp
+CEE,421,3.474461538461537,390,Construction Planning
+AE,199,3.5614285714285723,385,Computer Aided Design
+CEE,380,2.8650391644908613,383,Geotechnical Engineering
+ECE,343,3.613031914893617,376,Electronic Circuits Laboratory
+CEE,422,3.387626666666667,375,Construction Cost Analysis
+CEE,300,3.004634146341462,369,Behavior of Materials
+CEE,360,3.052690217391304,368,Structural Engineering
+CEE,420,3.5278977272727268,352,Construction Productivity
+ECE,411,2.940057306590258,349,Computer Organization & Design
+IE,310,3.26628242074928,347,Operations Research
+CS,438,2.841797101449274,345,Communication Networks
+CEE,498,3.8222822822822833,333,Sustainable Infrastructure Sys
+CS,296,3.6936728395061733,324,Honors Course
+ECE,333,3.123509316770186,322,Green Electric Energy
+GE,261,3.115015974440894,313,Business Side of Engineering
+CS,427,3.28438127090301,299,Software Engineering I
+CEE,310,3.018080808080808,297,Transportation Engineering
+ECE,408,3.435774647887324,284,Applied Parallel Programming
+ECE,311,3.494326241134752,282,Digital Signal Processing Lab
+CEE,460,3.550178571428571,280,Steel Structures I
+AE,100,3.738399999999999,275,Intro to Aerospace Engineering
+GE,495,3.894799999999999,275,Senior Engineering Project II
+NPRE,201,3.7514285714285722,273,Energy Systems
+AE,353,3.566394052044609,269,Aerospace Control Systems
+GE,400,3.64749063670412,267,Engineering Law
+ECE,486,3.465955056179774,267,Control Systems
+AE,202,3.195547169811321,265,Aerospace Flight Mechanics
+CS,431,2.874007782101167,257,Embedded Systems
+MSE,201,3.257380952380953,252,Phases and Phase Relations
+ABE,430,3.932163265306122,245,Project Management
+ME,471,3.391923076923077,234,Finite Element Analysis
+AE,321,2.46448717948718,234,Mechs of Aerospace Structures
+MSE,401,3.02471615720524,229,Thermodynamics of Materials
+CS,423,3.643244444444444,225,Operating Systems Design
+CEE,461,3.119066666666666,225,Reinforced Concrete I
+AE,311,3.043558558558559,222,Incompressible Flow
+AE,312,2.781176470588235,221,Compressible Flow
+ECE,206,3.819954545454546,220,Elec & Electronic Circuits Lab
+ECE,316,3.720733944954128,218,Ethics and Engineering
+MSE,395,3.674906542056075,214,Materials Design
+AE,323,2.616995305164319,213,Applied Aerospace Structures
+AE,442,3.273095238095238,210,Aerospace Systems Design I
+ENG,199,3.811238095238094,210,MEP Mentoring
+AE,460,3.735645933014353,209,Aerodynamics & Propulsion Lab
+AE,370,3.293285024154589,207,Aerospace Numerical Methods
+BIOE,414,3.394734299516909,207,Biomedical Instrumentation
+MSE,402,3.270436893203883,206,Kinetic Processes in Materials
+ENG,471,3.686682926829268,205,Seminar Energy & Sustain Engrg
+CEE,470,3.031542288557214,201,Structural Analysis
+MSE,406,3.038499999999999,200,Thermal-Mech Behavior of Matls
+AE,483,3.69756345177665,197,UAV Navigation and Control
+AE,352,3.382893401015228,197,Aerospace Dynamical Systems
+MSE,304,2.724693877551021,196,Electronic Properties of Matls
+MSE,206,3.02045918367347,196,Mechanics for MatSE
+CS,460,3.6206632653061233,196,Security Laboratory
+ECE,515,3.629170984455958,193,Control System Theory & Design
+ECE,464,2.9879687500000003,192,Power Electronics
+ENG,466,3.626526315789473,190,High-Tech Venture Marketing
+MSE,308,3.301336898395722,187,Materials Laboratory II
+CS,598,3.79,187,Advanced Information Retrieval
+CEE,462,3.469677419354838,186,Steel Structures II
+MSE,307,3.238108108108108,185,Materials Laboratory I
+GE,100,3.856378378378378,185,Introduction to ISE
+MSE,182,3.363043478260869,184,Introduction to MatSE
+CS,492,3.310601092896174,183,Senior Project I
+MSE,450,3.208715083798883,179,Polymer Science & Engineering
+ECE,350,3.067640449438202,178,Fields and Waves II
+CS,493,3.589887005649717,177,"Senior Project II, ACP"
+ECE,444,3.373522727272727,176,IC Device Theory & Fabrication
+AE,461,3.737329545454545,176,Structures & Control Lab
+MSE,405,3.174476744186046,172,Microstructure Determination
+CS,466,3.420581395348837,172,Introduction to Bioinformatics
+AE,443,3.7120467836257323,171,Aerospace Systems Design II
+CS,429,3.443058823529411,170,"Software Engineering II, ACP"
+CEE,570,3.204294117647058,170,Finite Element Methods
+ECE,549,3.872705882352941,170,Computer Vision
+MSE,470,3.4258823529411773,170,Design and Use of Biomaterials
+CEE,350,3.457514792899408,169,Water Resources Engineering
+IE,430,3.0852976190476182,168,Economic Found of Quality Syst
+ENG,333,3.510297619047619,168,"Creativity, Innovation, Vision"
+CEE,472,3.542168674698795,166,Structural Dynamics I
+CEE,437,3.292969696969697,165,Water Quality Engineering
+IE,413,2.898848484848484,165,Simulation
+BIOE,302,3.418136645962733,161,Modeling Human Physiology
+CEE,465,3.238385093167701,161,Design of Structural Systems
+CEE,424,3.43775,160,Sustainable Const Methods
+IE,410,2.75796178343949,157,Stochastic Processes & Applic
+NPRE,475,3.821999999999999,155,Wind Power Systems
+ECE,470,2.976428571428571,154,Introduction to Robotics
+CEE,491,3.409740259740259,154,Decision and Risk Analysis
+ECE,402,3.435430463576159,151,Electronic Music Synthesis
+ME,350,3.027297297297297,148,Design for Manufacturability
+BIOE,206,3.202702702702702,148,Cellular Bioengineering
+BIOE,201,3.742397260273973,146,Conservation Principles Bioeng
+GE,310,3.273541666666666,144,General Engineering Design
+CEE,463,3.463333333333333,144,Reinforced Concrete II
+ECE,534,3.557132867132867,143,Random Processes
+GE,320,3.033642857142857,140,Control Systems
+CEE,471,3.05546762589928,139,Structural Mechanics
+BIOE,120,3.763623188405798,138,Introduction to Bioengineering
+CS,525,3.689558823529411,136,Advanced Distributed Systems
+IE,420,3.101481481481482,135,Financial Engineering
+AE,402,3.45274074074074,135,Orbital Mechanics
+BIOE,303,3.840223880597015,134,Quantitative Physiology Lab
+CEE,598,3.719999999999999,132,Post-tensioned Concrete Struct
+BIOE,476,3.620075757575757,132,Tissue Engineering
+ECE,498,3.394242424242425,132,Smartphone Computing & Appl.
+ENG,460,3.936818181818182,132,Entrepreneurship for Engineers
+NPRE,101,2.953846153846154,130,Introduction to Energy Sources
+ECE,398,3.599767441860464,129,Innovation and Eng. Design
+CS,512,3.820859374999999,128,Data Mining Principles
+BIOE,202,3.291953124999999,128,Cell & Tissue Engineering Lab
+IE,330,3.309921259842519,127,Industrial Quality Control
+TAM,541,3.550555555555555,126,Mathematical Methods I
+CEE,525,3.720079365079365,126,Construction Case Studies
+GE,450,3.386799999999999,125,Decision Analysis I
+GE,424,3.195359999999999,125,State Space Design for Control
+IE,523,3.592258064516129,124,Financial Computing
+IE,522,3.474796747967479,123,Statistical Methods in Finance
+AE,433,3.19260162601626,123,Aerospace Propulsion
+IE,526,3.631147540983606,122,Stochastic Calculus in Finance
+IE,525,3.488999999999999,120,Numerical Methods in Finance
+BIOE,205,3.2555,120,Signals & Systems in Bioengrg
+CEE,340,3.366974789915966,119,Energy and Global Environment
+ECE,453,3.23771186440678,118,Wireless Communication Systems
+ECE,431,3.148119658119659,117,Electric Machinery
+ECE,462,3.279658119658119,117,Logic Synthesis
+ECE,483,3.281140350877193,114,Analog IC Design
+GE,361,3.561929824561404,114,Emotional Intelligence Skills
+NPRE,247,2.723839285714285,112,Modeling Nuclear Energy System
+ME,487,3.333513513513513,111,MEMS-NEMS Theory & Fabrication
+MSE,485,3.500454545454545,110,Atomic Scale Simulations
+GE,311,3.128807339449541,109,Engineering Design Analysis
+BIOE,498,3.715779816513761,109,Preclinical Molecular Imaging
+GE,312,3.149816513761467,109,Instrumentation and Test Lab
+MSE,396,3.883055555555555,108,Introduction to Research
+ABE,224,3.709907407407407,108,ABE Principles: Soil & Water
+ECE,476,3.163490566037735,106,Power System Analysis
+ABE,436,3.358301886792453,106,Renewable Energy Systems
+TAM,470,3.144528301886791,106,Computational Mechanics
+IE,524,3.5729245283018862,106,Optimization in Finance
+ECE,482,3.146380952380953,105,Digital IC Design
+ECE,420,3.686442307692308,104,Embedded DSP Laboratory
+ABE,223,3.5986407766990283,103,ABE Principles: Machine Syst
+MSE,460,3.019705882352941,102,Electronic Materials I
+BIOE,415,3.634,100,Biomedical Instrumentation Lab
+CS,433,3.313434343434343,99,Computer System Organization
+ME,400,3.414545454545454,99,Energy Conversion Systems
+MSE,500,3.544489795918367,98,Statistical Thermodyn of Matls
+BIOE,360,3.742448979591836,98,Transport & Flow in Bioengrg
+TAM,412,3.020833333333333,96,Intermediate Dynamics
+NPRE,199,3.7778125,96,Undergraduate Seminar
+ECE,473,3.121979166666667,96,Fund of Engrg Acoustics
+TAM,195,3.5629166666666663,96,Mechanics in the Modern World
+CS,463,3.40625,96,Computer Security II
+ABE,226,3.449157894736842,95,ABE Principles: Bioprocessing
+BIOE,220,3.642210526315789,95,Bioenergetics
+ECE,469,3.435894736842105,95,Power Electronics Laboratory
+AE,416,3.053404255319149,94,Applied Aerodynamics
+ABE,225,3.213369565217391,92,ABE Principles: Bioenvironment
+NPRE,446,3.532934782608695,92,Radiation Interact w/Matter I
+NPRE,431,2.688586956521739,92,Materials in Nuclear Engrg
+MSE,457,3.434999999999999,92,Polymer Chemistry
+BIOE,310,3.348152173913043,92,Comp Tools Bio Data
+ABE,425,3.766555555555555,90,Engrg Measurement Systems
+NPRE,100,3.696444444444444,90,Orientation to NPRE
+CS,420,3.2414444444444452,90,Parallel Progrmg: Sci & Engrg
+ABE,469,3.711777777777777,90,Industry-Linked Design Project
+ABE,141,3.567222222222222,90,ABE Principles: Biological
+ECE,490,3.592359550561797,89,Introduction to Optimization
+CS,519,3.682045454545455,88,Scientific Visualization
+TAM,252,3.731477272727273,88,Solid Mechanics Design
+IE,431,3.412954545454546,88,Design for Six Sigma
+AE,410,3.56,84,Computational Aerodynamics
+ECE,304,3.036071428571428,84,Photonic Devices
+TAM,445,2.650833333333333,84,Continuum Mechanics
+CS,199,3.843493975903614,83,Undergraduate Open Seminar
+ECE,380,3.229156626506024,83,Biomedical Imaging
+CEE,406,3.162682926829267,82,Pavement Design I
+ABE,100,3.6585365853658542,82,Intro Agric & Biological Engrg
+NPRE,455,2.494197530864197,81,Neutron Diffusion & Transport
+CEE,415,2.839382716049383,81,Geometric Design of Roads
+CEE,457,3.341624999999999,80,Groundwater
+MSE,403,3.0955,80,Synthesis of Materials
+NPRE,481,3.616999999999999,80,Writing on Technol & Security
+CS,467,3.692125,80,Social Visualization
+CEE,449,3.321012658227848,79,Environmental Engineering Lab
+ME,430,3.487435897435897,78,Failure of Engrg Materials
+NPRE,470,3.495128205128205,78,Fuel Cells & Hydrogen Sources
+MSE,456,3.057368421052631,76,Mechanics of Composites
+IE,360,3.333815789473684,76,Facilities Planning and Design
+NPRE,447,3.360394736842105,76,Radiation Interact w/Matter II
+CEE,483,2.903552631578947,76,Soil Mechanics and Behavior
+CS,445,3.400133333333333,75,Computational Photography
+CEE,416,3.107066666666667,75,Traffic Capacity Analysis
+CEE,442,3.6224,75,"Env Eng Principles, Physical"
+NPRE,448,2.621621621621621,74,Nuclear Syst Engrg & Design
+ECE,551,3.8772602739726043,73,Digital Signal Processing II
+ME,461,3.931506849315067,73,Computer Cntrl of Mech Systems
+CEE,443,3.53958904109589,73,"Env Eng Principles, Chemical"
+CS,473,2.463333333333333,72,Fundamental Algorithms
+NPRE,441,3.176666666666666,72,Radiation Protection
+IE,411,3.398333333333333,72,Optimization of Large Systems
+CEE,434,3.560277777777777,72,Environmental Systems I
+NPRE,421,2.852222222222222,72,Plasma and Fusion Science
+GE,410,3.188028169014085,71,Component Design
+CS,447,3.502676056338028,71,Natural Language Processing
+BIOE,199,3.843142857142857,70,Undergraduate Open Seminar
+ME,431,3.604714285714286,70,Mechanical Component Failure
+ECE,395,3.763768115942028,69,Advanced Digital Projects Lab
+MSE,443,3.357681159420289,69,Design of Engineering Alloys
+CS,428,3.671739130434782,69,Software Engineering II
+BIOE,298,3.397205882352941,68,Analytical Tools for BIOE
+GE,494,3.8976470588235292,68,Senior Engineering Project I
+CEE,592,3.8970588235294112,68,Sustainable Urban Systems
+ENG,571,3.873382352941176,68,Theory Energy & Sustain Engrg
+CS,361,3.373333333333333,66,Prob & Stat for Computer Sci
+MSE,101,3.667575757575757,66,Materials in Today's World
+CEE,572,3.938615384615384,65,Earthquake Engineering
+CEE,452,3.369538461538461,65,Hydraulic Analysis and Design
+MSE,487,3.549230769230769,65,Materials for Nanotechnology
+IE,412,2.954153846153846,65,OR Models for Mfg Systems
+CS,484,3.099375,64,Parallel Programming
+ENG,398,3.71921875,64,Honduras Water Project
+MSE,453,2.984375,64,Plastics Engineering
+ECE,439,3.505,64,Wireless Networks
+MSE,489,3.846825396825397,63,Matl Select for Sustainability
+ECE,520,3.672222222222222,63,EM Waves & Radiating Systems
+CEE,526,3.714761904761904,63,Construction Optimization
+TAM,451,2.905079365079365,63,Intermediate Solid Mechanics
+ME,483,3.860806451612903,62,Mechanobiology
+ME,420,3.759672131147541,61,Intermediate Heat Transfer
+ECE,485,3.5683606557377052,61,MEMS Devices & Systems
+IE,361,3.448196721311476,61,Production Planning & Control
+MSE,458,3.250819672131147,61,Polymer Physical Chemistry
+ECE,307,3.322459016393443,61,Techniques for Engrg Decisions
+GE,423,3.750333333333333,60,Mechatronics
+NPRE,457,3.847966101694915,59,Safety Anlys Nucl Reactor Syst
+ME,451,3.587457627118643,59,Computer-Aided Mfg Systems
+CEE,480,3.005932203389831,59,Foundation Engineering
+ABE,466,3.514745762711864,59,Engineering Off-Road Vehicles
+ECE,418,3.520169491525424,59,Image & Video Processing
+CEE,484,3.24271186440678,59,Applied Soil Mechanics
+ME,482,3.604137931034483,58,Musculoskel Tissue Mechanics
+ABE,488,3.718448275862068,58,Bioprocessing Biomass for Fuel
+CEE,408,3.227543859649123,57,Railroad Transportation Engrg
+CS,426,3.393035714285714,56,Compiler Construction
+ECE,455,3.2061818181818182,55,Optical Electronics
+CS,555,3.764181818181818,55,Numerical Methods for PDEs
+ENG,565,3.933636363636364,55,Technol Innovation & Strategy
+CEE,450,3.575818181818182,55,Surface Hydrology
+CEE,409,3.824181818181818,55,Railroad Track Engineering
+ECE,456,3.142222222222222,54,Global Nav Satellite Systems
+ECE,417,3.666851851851851,54,Multimedia Signal Processing
+ME,452,3.654814814814815,54,Num Control of Mfg Processes
+CEE,453,2.987592592592593,54,Urban Hydrology and Hydraulics
+NPRE,451,2.962452830188679,53,NPRE Laboratory
+ECE,454,3.491509433962263,53,Antennas
+TAM,542,3.754905660377358,53,Mathematical Methods II
+CEE,444,3.289622641509434,53,"Env Eng Principles, Biological"
+ECE,544,3.648076923076923,52,Pattern Recognition
+ME,472,3.654423076923076,52,Introduction to Tribology
+AE,419,3.185961538461538,52,Aircraft Flight Mechanics
+MSE,440,3.26156862745098,51,Mechanical Behavior of Metals
+CS,527,3.66078431372549,51,Topics in Software Engineering
+CS,533,3.535882352941176,51,Parallel Computer Architecture
+TAM,551,3.51,51,Solid Mechanics I
+ECE,416,2.8936,50,Biosensors
+CS,494,3.6068,50,Senior Project II
+ECE,517,3.7072000000000003,50,Nonlinear & Adaptive Control
+IE,598,3.768979591836735,49,Neural Ntwks and Deep Learning
+ECE,317,3.592244897959184,49,ECE Technology & Management
+ECE,457,3.367551020408163,49,Microwave Devices & Circuits
+NPRE,432,3.771666666666667,48,Nuclear Engrg Materials Lab
+BIOE,436,3.957446808510638,47,Senior Design II
+MSE,441,3.269574468085105,47,Metals Processing
+CEE,411,3.210652173913043,46,RR Project Design & Constr
+ME,412,3.667173913043478,46,Numerical Thermo-Fluid Mechs
+MSE,455,3.051086956521739,46,Polymer Physics
+CEE,468,3.645434782608695,46,Prestressed Concrete
+GE,402,3.543695652173912,46,Comp-Aided Product Realization
+BIOE,420,3.785111111111111,45,Intro Bio Control Systems
+CEE,493,3.859555555555555,45,Sustainable Design Eng Tech
+MSE,442,3.5557777777777773,45,Metals Laboratory
+ECE,459,3.212272727272726,44,Communications Systems
+MSE,452,3.6428571428571432,42,Polymer Laboratory
+CEE,418,3.358048780487805,41,Public Transportation Systems
+CS,424,3.537073170731707,41,Real-Time Systems
+CS,511,3.634,40,Advanced Data Management
+GE,422,3.250499999999999,40,Robot Dynamics and Control
+CEE,412,3.8723076923076922,39,High-Speed Rail Engineering
+CS,546,3.641025641025641,39,Machine Learning in NLP
+MSE,473,3.427179487179487,39,Biomolecular Materials Science
+CS,419,3.5046153846153842,39,Production Computer Graphics
+MSE,481,3.351052631578947,38,Electron Microscopy
+AE,412,3.535526315789473,38,Viscous Flow & Heat Transfer
+ECE,511,3.6755263157894733,38,Computer Architecture
+NPRE,458,3.441081081081081,37,Design in NPRE
+ME,481,3.622432432432432,37,Whole-Body Musculoskel Biomech
+ECE,546,3.882972972972972,37,Advanced Signal Integrity
+AE,498,3.576756756756756,37,Fundamentals of Systems Engr
+ENG,250,3.7837837837837833,37,From Idea to Enterprise
+IE,529,3.852500000000001,36,Stats of Big Data & Clustering
+MSE,480,3.417222222222222,36,Surfaces and Colloids
+ENG,560,3.566111111111111,36,Managing Advanced Technol I
+ECE,527,3.733714285714286,35,System-On-Chip Design
+NPRE,442,3.462058823529411,34,Radioactive Waste Management
+CS,126,3.754705882352941,34,Software Design Studio
+ECE,298,3.793823529411765,34,Concepts in Engineering Math
+ME,403,3.510882352941176,34,Internal Combustion Engines
+CEE,398,3.717575757575757,33,Project Based Learning in CEE
+CEE,524,3.6560606060606062,33,Construction Law
+CEE,512,3.583125,32,Logistics Systems Analysis
+CEE,508,3.303124999999999,32,Pavement Evaluation and Rehab
+BIOE,430,3.7296875,32,Intro Synthetic Biology
+ME,498,3.5380645161290323,31,Fund of Modern Photovoltaics
+CEE,507,3.67774193548387,31,Repair of Civil Infrastructure
+AE,434,3.343548387096774,31,Rocket Propulsion
+ECE,441,3.200666666666666,30,Physcs & Modeling Semicond Dev
+CEE,537,3.4258620689655173,29,Water Quality Control Proc I
+ECE,425,2.896896551724137,29,Intro to VLSI System Design
+MSE,462,3.380344827586207,29,Electronic Materials Lab
+CEE,560,3.551724137931034,29,Steel Structures III
+ECE,447,3.713448275862069,29,Active Microwave Ckt Design
+ECE,488,3.608965517241379,29,Compound Semicond & Devices
+CEE,438,3.57551724137931,29,Science & Environmental Policy
+NPRE,480,3.461379310344827,29,Energy and Security
+ECE,550,3.793103448275862,29,Advanced Robotic Planning
+CEE,446,3.25,28,Air Quality Engineering
+ME,402,3.536428571428572,28,Design of Thermal Systems
+TAM,435,3.345714285714286,28,Intermediate Fluid Mechanics
+GE,413,3.332962962962963,27,Engrg Design Optimization
+TAM,456,3.061481481481481,27,Experimental Stress Analysis
+ECE,535,3.543703703703704,27,Theory of Semicond & Devices
+AE,403,3.531851851851851,27,Spacecraft Attitude Control
+ECE,481,3.846153846153846,26,Nanotechnology
+ECE,528,3.783846153846153,26,Analysis of Nonlinear Systems
+ECE,468,3.436153846153846,26,Optical Remote Sensing
+CS,548,3.8334615384615383,26,Models of Cognitive Processes
+ECE,451,3.513076923076923,26,Adv Microwave Measurements
+CS,563,3.884615384615384,26,Advanced Computer Security
+CS,554,3.5,26,Parallel Numerical Algorithms
+GE,420,3.346923076923077,26,Digital Control Systems
+IE,340,3.244230769230769,26,Human Factors
+ENG,450,3.6926923076923073,26,"Startup:Inc,Fund,Contracts, IP"
+BIOE,504,3.493999999999999,25,Analytical Methods in Bioeng
+MSE,580,3.5608,25,Diffraction Physics of Matls
+CS,565,3.7476000000000003,25,Human-Computer Interaction
+AE,451,3.6672000000000002,25,Aeroelasticity
+BIOE,505,3.5072,25,Computational Bioengineering
+ME,521,3.7996,25,Convective Heat Transfer
+ECE,518,3.8808,25,Adv Semiconductor Nanotech
+MSE,420,2.9468,25,Ceramic Materials & Properties
+ECE,554,3.9072,25,Dynamic System Reliability
+ECE,541,3.480399999999999,25,Computer Systems Analysis
+CEE,440,3.500833333333333,24,Fate Cleanup Environ Pollutant
+ECE,526,3.513333333333333,24,Distributed Algorithms
+ME,404,3.4175,24,Intermediate Thermodynamics
+NPRE,501,3.3625,24,Fundamentals of Nuclear Engrg
+ENG,461,3.902916666666666,24,Technology Entrepreneurship
+TAM,532,3.579565217391304,23,Viscous Flow
+ECE,598,3.8260869565217392,23,Statistical Learning Theory
+IE,400,3.290434782608696,23,Design & Anlys of Experiments
+ME,510,3.8404347826086953,23,Advanced Gas Dynamics
+CEE,506,3.449565217391304,23,Pavement Design II
+TAM,461,3.724782608695651,23,Cellular Biomechanics
+ECE,361,3.33391304347826,23,Digital Communications
+CEE,517,3.392173913043478,23,Traffic Signal Systems
+CEE,467,2.984782608695652,23,Masonry Structures
+ENG,200,3.7686956521739132,23,Introduction to Innovation
+NPRE,412,3.058695652173913,23,Nuclear Power Econ & Fuel Mgmt
+NPRE,598,3.913043478260869,23,Fund Plasma Matls Interactions
+ENG,566,3.909090909090909,22,Finance for Engineering Mgmt
+CEE,575,3.621363636363636,22,Fracture and Fatigue
+IE,511,3.834090909090909,22,Integer Programming
+CEE,580,3.332727272727272,22,Excavation and Support Systems
+ECE,564,3.8186363636363643,22,Modern Light Microscopy
+AE,454,3.590909090909091,22,Systems Dynamics & Control
+NPRE,498,3.682857142857142,21,Probabilistic Risk Assessment
+MSE,565,3.808571428571428,21,Thin Film Materials
+MSE,404,3.476666666666667,21,Computational MSE- Macroscale
+ABE,199,3.968095238095238,21,Water in the Global Environ
+CS,538,3.8409523809523813,21,Advanced Computer Networks
+ECE,199,3.778571428571428,21,Undergraduate Open Seminar
+CEE,401,3.603333333333333,21,Concrete Materials
+CEE,590,3.491904761904762,21,Geotechnical Field Measurement
+CEE,586,3.475714285714285,21,Rock Mechanics and Behavior
+TAM,531,3.7938095238095233,21,Inviscid Flow

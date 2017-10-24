@@ -1,0 +1,80 @@
+subject,number,avg_gpa,sum_students,title
+SPED,117,3.63953725490196,1275,The Culture of Disability
+EPSY,201,3.7606593406593403,819,Educational Psychology
+SPED,405,3.79473282442748,393,Gen Educator's Role in SPED
+EPSY,220,3.606424581005588,358,Career Theory and Practice
+SPED,322,3.694864048338369,331,Intro Intellectual Disability
+EPSY,420,3.133516819571865,327,Theories of Psychotherapy
+CI,415,3.733521594684385,301,"Lang Varieties,Cult,& Learning"
+EPSY,202,3.453866171003717,269,Exploring Cultural Diversity
+CI,473,3.929725490196078,255,Literacy in Content Areas
+EPSY,480,3.313727272727271,220,Educational Statistics
+CI,475,3.6688834951456313,206,Teach Elem Rdg & Lang Arts I
+EPSY,485,3.859736842105262,190,Assessing Student Performance
+CI,405,3.602872928176796,181,Intro Tchg Elem Age Children
+CI,476,3.767283236994219,173,Teach Elem & Mid Lang Arts
+CI,407,3.771627906976744,172,Thry Prac in Elem Schl Tchg II
+EPSY,430,3.859285714285714,168,Early Adolescent Development
+CI,430,3.873481012658228,158,Teaching Children Mathematics
+CI,406,3.6582580645161302,155,Thry Prac in Elem Schl Tch I
+CI,432,3.881298701298701,154,Invest Approach Elem Math Inst
+CI,450,3.621076923076923,130,Tchg Elem Science I
+CI,467,3.812016129032258,124,Princ Tchg Lit to Child Youth
+CI,447,3.90260162601626,123,Iss Prac in Address Diversity
+EPS,202,3.78504424778761,113,Foundations of Education-ACP
+SPED,205,3.759259259259259,108,Introduction to Special Needs
+CI,451,3.873980582524271,103,Tchg Elem Science II
+CI,448,3.7279797979797973,99,Tchg Elem Social Studies
+CI,550,3.763298969072165,97,Methods of Educational Inquiry
+EPS,310,3.426666666666667,90,Race and Cultural Diversity
+EPS,402,3.793448275862068,87,Asian American Education
+EPSY,490,3.964285714285714,84,Prep for Recruitment Counselor
+EPSY,456,3.5060240963855422,83,Human Perform & Cogn in Contxt
+CI,433,3.741999999999998,80,Found of Bilingual Educ
+CI,403,3.628205128205128,78,Tchg Diverse High School Stu
+SPED,440,3.844657534246575,73,Instructional Strategies I
+CI,404,3.8167605633802832,71,Tchg and Assessing Sec Sch Stu
+SPED,447,3.924,70,Curriculum Development II
+EPSY,581,3.805,70,Applied Regression Analysis
+SPED,312,3.942857142857143,70,Intro to Ed Technology
+EPSY,587,3.789411764705882,68,Hierarchical Linear Models
+SPED,448,3.74985294117647,68,Curriculum Development III
+EPS,201,3.706119402985074,67,Foundations of Education
+CI,335,3.886949152542372,59,Content Area App of Educ Tech
+CI,437,3.8547272727272732,55,Educational Game Design
+CI,401,3.77530612244898,49,Intro Tchg in a Diverse Societ
+CI,402,3.711086956521739,46,Tchg Diverse Middle Grade Stu
+SPED,438,3.8448837209302322,43,Collaborating with Families
+HRD,415,3.70025,40,Diversity in the Workplace
+EPSY,580,3.828918918918919,37,Statistical Inference in Educ
+SPED,441,3.8888888888888893,36,Instructional Strategies II
+SPED,446,3.9808571428571433,35,Curriculum Development I
+SPED,431,3.962,35,Assistive Tech & Phys Disab
+HRD,532,3.867428571428571,35,Strategic HRD
+SPED,424,3.97969696969697,33,Formal Assessment in SPED
+SPED,471,3.9096969696969692,33,Learning Environments II
+CI,431,3.96875,32,Tchg Elementary Mathematics
+SPED,317,3.8021875,32,Characteristics & Eligibility
+HRD,402,3.8609677419354833,31,Business Principles for HRD
+EPS,410,3.7031034482758622,29,Philosophy of Education
+CI,471,3.516896551724138,29,Princ Prac Foster Indep Rdg
+EPSY,556,3.9313793103448282,29,Analysis of Educational Tech
+EPSY,401,3.7507142857142863,28,Child Language and Education
+EPS,533,3.834285714285714,28,Global Youth & Citizenship
+EPS,325,3.6082142857142863,28,Social Media and Global Change
+CI,477,3.726785714285714,28,Biling ESL Methods & Material
+CI,410,3.881071428571428,28,"Middle Schl Inst, Phil, & Str"
+SPED,450,3.90074074074074,27,Introduction to ECSE
+SPED,426,3.926296296296296,27,Collaboration and Teaming
+HRD,530,3.962962962962963,27,Organization Development
+HRD,411,3.679615384615384,26,Training System Design
+CI,422,3.6676,25,"Families, Communities, Schools"
+EPS,411,3.791666666666666,24,School and Society
+EPS,538,3.944583333333333,24,Globalization of Higher Ed
+EPS,580,3.970869565217391,23,Researching Global Education
+EPSY,407,3.638260869565217,23,Adult Learning and Development
+EPSY,575,3.811304347826087,23,Mixed Method Inquiry
+CI,541,3.62391304347826,23,Learning in Science
+HRD,540,3.757727272727273,22,Learning on the Job
+CI,210,3.834090909090909,22,Intro to Digital Learning Env
+SPED,514,3.666666666666666,21,Equity Issues in Spec Educatio

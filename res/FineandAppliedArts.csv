@@ -1,0 +1,166 @@
+subject,number,avg_gpa,sum_students,title
+THEA,101,3.637009752699412,5742,Introduction to Theatre Arts
+MUS,133,3.437731510254817,1609,Introduction to World Music
+MUS,130,3.29563322368421,1216,Introd to the Art of Music
+DANC,100,3.801733668341709,398,Intro to Contemporary Dance
+MUS,250,3.926082191780822,365,Philharmonia Orchestra
+ARCH,101,3.588459302325582,344,Introduction to Architecture
+UP,101,3.26221183800623,321,Introduction to City Planning
+ART,105,3.776915254237288,295,Visual Design for Non-Majors
+ART,100,3.486408450704225,284,Understanding Visual Culture
+ARCH,210,3.049787234042553,282,Intro to the Hist of Arch
+ARTF,101,3.239490909090909,275,Contemporary Issues in Art
+ARCH,341,2.7549433962264143,265,Environment Tech HVAC
+ARCH,342,3.013621399176954,243,Environment Tech Ltg & Acoust
+ARCH,231,3.333534482758621,232,Anatomy of Buildings
+DANC,112,3.716493506493507,231,Hip Hop
+ARCH,271,2.928206278026906,223,Graphics for Architects
+ARCH,452,3.406816143497758,223,Theory of Reinforced Concrete
+MUS,499,3.7302702702702693,222,Jazz Forum
+THEA,100,3.7417117117117122,222,Practicum I
+ARCH,451,3.157954545454545,220,Theory & Design Steel & Timber
+ARCH,351,3.289403669724771,218,Statics & Dynamics
+ARCH,352,3.287557603686636,217,Mech of Mat & Design Appl
+MUS,110,3.136525821596244,213,Introd Art Mus: Intl Perspect
+ARCH,233,3.155339805825242,206,Construction of Buildings
+THEA,110,3.689476439790575,191,Broadway Musicals
+MUS,314,3.167105263157894,190,The History of Music II
+ARCH,272,3.175923913043479,184,Strategies of Arch Design
+MUS,313,2.721460674157303,178,The History of Music I
+MUS,269,3.913559322033898,177,Wind Orchestra
+MUS,272,3.915740740740741,162,University Band
+ART,310,3.599999999999999,154,Design Thinking
+UP,418,3.5129251700680273,147,GIS for Planners
+ARCH,502,3.498219178082192,146,Structural Planning
+ARCH,577,3.016482758620689,145,Theory of Architecture
+ARCH,417,3.671666666666667,138,Twentieth-Century Architecture
+ARCH,412,2.96837037037037,135,Medieval Architecture
+MUS,262,3.984375,128,Women's Glee Club
+UP,480,3.277177419354838,124,Sustainable Design Principles
+MUS,261,3.922892561983471,121,University Chorus
+ARCH,410,2.7389166666666673,120,Ancient Egyptian & Greek Arch
+ARCH,416,3.469833333333333,120,Modern American Architecture
+ARCH,468,3.622033898305084,118,Overseas Architectural Studies
+MUS,107,3.302457627118644,118,Aural Skills I
+UP,430,3.499316239316239,117,Urban Transportation Planning
+ARCH,409,3.193846153846153,117,Special Topics in Spanish Arch
+MUS,501,3.4393269230769232,104,Western Music before 1750
+LA,101,3.320576923076923,104,Introduction to Landscape Arch
+MUS,241,3.804901960784313,102,Music for Elementary Teachers
+MUS,268,3.946699999999999,100,Wind Symphony
+MUS,450,3.959696969696969,99,U of I Symphony Orchestra
+ART,202,3.926315789473684,95,Art in the Elementary Grades
+ARTD,328,3.698631578947369,95,Human-Centered Product Design
+DANC,107,3.6815217391304342,92,Ballet I
+ARCH,476,3.397191011235954,89,Arch Design & Exploration
+MUS,102,2.780795454545454,88,Music Theory and Practice II
+LA,314,2.591022727272727,88,History of World Landscapes
+MUS,108,3.02360465116279,86,Aural Skills II
+ARTD,326,3.225180722891566,83,Sustainability & Manufacturing
+MUS,263,3.8118072289156633,83,Men's Glee Club
+UP,260,3.25280487804878,82,Social Inequality and Planning
+THEA,262,3.301111111111111,81,Literature of Modern Theatre
+UP,311,3.612875,80,"Local Planning, Gov't and Law"
+UP,205,3.2045,80,Ecology and its Applications
+MUS,243,3.8127500000000003,80,Introductory Music Ed Tech
+DANC,101,3.794210526315789,76,Modern Dance I
+ARTD,225,2.74917808219178,73,Design Drawing
+MUS,240,3.643380281690141,71,Orientation Mus Tchg Lrng K-HS
+THEA,102,3.71536231884058,69,Text to Stage
+DANC,105,3.9039130434782603,69,Jazz Dance I
+UP,185,2.893478260869565,69,Cities in a Global Perspective
+MUS,408,3.289411764705882,68,18th Century
+THEA,170,3.425,66,Fundamentals of Acting I
+LA,501,3.516363636363636,66,Landscape Arch Theory & Prac
+ARTD,228,2.8234848484848483,66,Computer Applications
+DANC,360,3.51078125,64,Int/Adv Contemp Mod Tech Core
+ART,140,3.671875,64,Introduction to Art
+UP,330,3.40140625,64,The Modern American City
+ARTD,299,3.512539682539683,63,Disability + Relevant Design
+UP,505,3.661904761904761,63,Urban and Regional Analysis
+ARTD,202,3.571428571428571,63,Industrial Design II
+MUS,271,3.92063492063492,63,Hindsley Symphonic Band
+UP,347,3.721129032258064,62,Junior Planning Workshop
+UP,316,3.404426229508196,61,Planning Analysis
+THEA,103,3.2601694915254242,59,Survey of Theatre Production
+UP,504,3.729491525423729,59,Urban History and Theory
+UP,204,3.186779661016949,59,Chicago: Planning & Urban Life
+ARCH,403,3.27186440677966,59,Spec Topics in Arch History
+ARTD,426,3.60457627118644,59,Product Innovation
+UP,312,3.201551724137931,58,Communication for Planners
+ARCH,501,3.718793103448276,58,Architectural Practice
+UP,510,3.6035087719298238,57,Plan Making
+UP,511,3.821964285714286,56,Law and Planning
+THEA,360,2.363454545454545,55,History of Theatre I
+MUS,439,3.466545454545454,55,Differentiating Music Instrctn
+MUS,346,3.611481481481481,54,Choral Mthds Secondary Ensem
+UP,201,3.722407407407407,54,Planning in Action
+MUS,242,2.780754716981132,53,Elements of Conducting
+THEA,361,2.592264150943396,53,History of Theatre II
+DANC,301,3.7440384615384623,52,Yoga Practicum for Dancers
+LA,470,3.4112765957446802,47,Social/Cultural Design Issues
+DANC,266,3.529782608695651,46,Intermediate Ballet Tech Core
+MUS,418,3.152391304347825,46,Music of Brazil
+MUS,333,2.87695652173913,46,Cond/Teach Strings-Grp Setting
+ART,102,3.666739130434782,46,Drawing for Non-Majors
+ART,205,3.414444444444444,45,Experience & Meaning in Design
+LA,280,3.148444444444444,45,Design Communications I
+ARTD,351,3.697045454545454,44,Graphic Design Inquiry
+ARTD,218,3.667272727272727,44,Intro to Web Technologies
+LA,452,3.432045454545454,44,Natural Precedent in Planting
+MUS,335,3.465116279069767,43,Elem and Mid Sch Instrum Music
+ARTS,250,3.564047619047618,42,Life Drawing
+THEA,208,3.754761904761904,42,Script Analysis
+UP,508,3.6756097560975602,41,Survey Design and Analysis
+ARTD,201,3.49275,40,Industrial Design I
+MUS,103,3.069230769230769,39,Theory for Non-Music Majors
+LA,370,3.108378378378378,37,Environmental Sustainability
+ARTD,402,3.4450000000000003,36,Industrial Design VI
+ARTD,448,3.500555555555555,36,Professional Design Practice
+LA,346,3.228857142857143,35,Professional Practice
+ARTD,302,3.343142857142857,35,Industrial Design IV
+ARTD,301,2.882647058823529,34,Industrial Design III
+MUS,199,3.922333333333333,30,Undergraduate Open Seminar
+ARCH,411,3.0,30,Ancient Roman Architecture
+ART,299,3.401,30,Thinking with Type
+MUS,339,3.156,30,Princpls and Technqs in Mus Ed
+LA,221,3.229655172413793,29,History of the Prison
+DANC,160,2.966896551724137,29,Beg Contemp Modern Tech Core
+UP,501,3.5989655172413793,29,Planning History and Theory
+UP,503,3.896551724137931,29,Physical Planning
+LA,250,2.7975,28,Environmental Site Analysis
+LA,597,3.4875,28,Research Design & Methods
+UP,211,3.564615384615384,26,"Local Planning, Gov't and Law"
+UP,438,3.448846153846154,26,Disasters and Urban Planning
+UP,116,3.50076923076923,26,Urban Informatics I
+MUS,558,3.8808,25,Vocal Literature
+THEA,400,3.8,25,Practicum II
+ART,103,3.8544,25,Painting for Non-Majors
+MUS,344,3.389166666666666,24,Tchng Secondary Inst Music
+UP,456,3.722916666666666,24,Sustainable Planning Workshop
+ARCH,595,3.63875,24,Spec Prob Struct Theory & Des
+MUS,527,3.916666666666666,24,Classical Performance Practice
+LA,427,3.139166666666666,24,Amer Vernacular Cultural Land
+UP,406,3.055833333333333,24,Urban Ecology
+ARTD,222,3.5934782608695652,23,Typographic Practice
+ARTD,371,3.75391304347826,23,Graphic Design Practicum
+UP,136,3.507391304347826,23,Fndtns Urban Sustainability
+UP,405,3.377391304347826,23,Watershed Ecology and Planning
+LA,342,2.88304347826087,23,Site Engineering
+DANC,150,3.8117391304347823,23,Orientation to Dance
+ARTD,270,3.833636363636364,22,Design Methods
+MUS,526,3.894090909090909,22,Baroque Performance Practice
+ARTD,215,3.515454545454545,22,Introduction to Typography
+UP,423,3.682272727272727,22,Cmnty Dev in the Global South
+ARTD,418,3.197727272727272,22,Digital Interaction Sandbox
+MUS,528,3.713181818181818,22,Res & Bibliography in Music
+ARTD,499,2.848636363636363,22,Sustainable Life Cycle Design
+MUS,348,3.954545454545454,22,Choral Literature
+MUS,320,3.8409523809523813,21,Pre-Student Tchng Experience
+DANC,166,3.668095238095238,21,Beginning Ballet Tech Core
+ARCH,407,3.3338095238095242,21,Rome: The Eternal City
+DANC,363,3.952380952380952,21,Advanced Improvisation
+DANC,260,3.365238095238095,21,Int Contemp Modern Tech Core
+UP,494,3.888571428571428,21,Active Transp. Workshop
+UP,345,3.491428571428571,21,Economic Development Planning
+MUS,400,3.682380952380952,21,Counterpoint and Fugue
